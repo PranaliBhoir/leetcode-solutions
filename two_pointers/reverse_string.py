@@ -1,4 +1,4 @@
-# 
+# https://leetcode.com/problems/reverse-string/description/
 def reverse_string(s):
     left, right = 0, len(s)-1
     while left < right:
