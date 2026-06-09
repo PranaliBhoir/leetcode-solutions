@@ -1,3 +1,4 @@
+# https://leetcode.com/problems/happy-number/description/
 class Solution:
     def isHappy(self, n):
         seen = set()
