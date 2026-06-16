@@ -5,4 +5,4 @@ def removeElement(nums,val):
             nums[left] = nums[right]
             left += 1
     return left
-print(removeElement([3,2,2,3],3))
+print(removeElement([3,2,2,3],3))   
